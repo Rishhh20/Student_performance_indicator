@@ -50,11 +50,11 @@ Link : Model Training Notebook
 
 ## Usage:
 
-conda create -p std python=3.8 -y
-conda activate std/
-pip install -r requirements.txt
-Execute application.py
-port : http://127.0.0.1:5000
+1. conda create -p std python=3.8 -y
+2. conda activate std/
+3. pip install -r requirements.txt
+4. Execute application.py
+5. port : http://127.0.0.1:5000
 
 
 
